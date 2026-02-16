@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="287882b4-be7c-466c-9057-f09329242d5e" name="更改" comment="update icons/fnos.png">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="287882b4-be7c-466c-9057-f09329242d5e" name="更改" comment="add icons/阿里云.png&#10;update icons/雨课堂.png" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,7 +97,7 @@
       <workItem from="1770334953994" duration="2323000" />
       <workItem from="1771242230305" duration="71000" />
       <workItem from="1771242317947" duration="1576000" />
-      <workItem from="1771267178166" duration="1642000" />
+      <workItem from="1771267178166" duration="2137000" />
     </task>
     <task id="LOCAL-00001" summary="扩充常见icon">
       <option name="closed" value="true" />
@@ -125,7 +123,23 @@
       <option name="project" value="LOCAL" />
       <updated>1771268512188</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="add icons/accoding.buaa.edu.cn.png,&#10;icons/zfw.buaa.edu.cn.png,&#10;icons/u校园.png,&#10;icons/中国联通.png,&#10;icons/轩辕镜像.png,&#10;icons/雨云面板.png,&#10;icons/dynadot.png,">
+      <option name="closed" value="true" />
+      <created>1771268957305</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1771268957305</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add icons/阿里云.png&#10;update icons/雨课堂.png">
+      <option name="closed" value="true" />
+      <created>1771269343414</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1771269343414</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -173,6 +187,8 @@
     <MESSAGE value="扩充常见icon" />
     <MESSAGE value="统一icons为png格式" />
     <MESSAGE value="update icons/fnos.png" />
-    <option name="LAST_COMMIT_MESSAGE" value="update icons/fnos.png" />
+    <MESSAGE value="add icons/accoding.buaa.edu.cn.png,&#10;icons/zfw.buaa.edu.cn.png,&#10;icons/u校园.png,&#10;icons/中国联通.png,&#10;icons/轩辕镜像.png,&#10;icons/雨云面板.png,&#10;icons/dynadot.png," />
+    <MESSAGE value="add icons/阿里云.png&#10;update icons/雨课堂.png" />
+    <option name="LAST_COMMIT_MESSAGE" value="add icons/阿里云.png&#10;update icons/雨课堂.png" />
   </component>
 </project>
