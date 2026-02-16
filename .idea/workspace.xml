@@ -5,43 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="287882b4-be7c-466c-9057-f09329242d5e" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/DPanel.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/DPanel.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/DPanel.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/accoding.buaa.edu.cn.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/bili-sync-rs.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/bili-sync-rs.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/bili-sync-rs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/bili-sync-rs.webp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/buaa.edu.cn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/changjiang.yuketang.cn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/clash-meta.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/clash-meta.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/clash-meta.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/flatnas.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/flatnas.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/flatnas.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/fnos.net.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/gm.started.ink.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/halo.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/halo.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/halo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/hunyuan.tencent.com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/lib.buaa.edu.cn.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/mcsmanager.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/mcsmanager.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/mcsmanager.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/onenav.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/onenav.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/onenav.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/racknerd.com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/started.ink.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/tingwu.aliyun.com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/www.qianwen.com.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/www.yuketang.cn.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/xuanyuan.cloud.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/icons/zfw.buaa.edu.cn.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/cloudflare.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/flomo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icons/google.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/deepseek.png" beforeDir="false" afterPath="$PROJECT_DIR$/icons/deepseek.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/github.png" beforeDir="false" afterPath="$PROJECT_DIR$/icons/github.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/智谱清言.png" beforeDir="false" afterPath="$PROJECT_DIR$/icons/智谱清言.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/腾讯混元.png" beforeDir="false" afterPath="$PROJECT_DIR$/icons/腾讯混元.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/通义千问.png" beforeDir="false" afterPath="$PROJECT_DIR$/icons/通义千问.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +35,8 @@
       </branch-storage>
     </excluded-from-favorite>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -84,23 +58,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "JavaScript 调试.127.0.0.1:7890.executor": "Debug",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;JavaScript 调试.127.0.0.1:7890.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\ROG\WebstormProjects\Image-Hosting-Service\icons" />
@@ -165,7 +139,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="HEAD" />
+                        <option value="origin/main" />
                       </list>
                     </value>
                   </entry>
