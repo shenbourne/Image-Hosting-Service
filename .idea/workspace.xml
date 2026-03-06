@@ -4,13 +4,24 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="287882b4-be7c-466c-9057-f09329242d5e" name="更改" comment="add icons/Tkong.png">
+    <list default="true" id="287882b4-be7c-466c-9057-f09329242d5e" name="更改" comment="merge /halo to /blog&#10;rm /halo">
+      <change afterPath="$PROJECT_DIR$/icons/README.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/icons/华文笔杆 (3).png" beforeDir="false" afterPath="$PROJECT_DIR$/icons/华文笔杆.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileSync">
+    <option name="targetMappings">
+      <list>
+        <TargetMappings>
+          <option name="name" value="默认" />
+        </TargetMappings>
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <excluded-from-favorite>
@@ -50,25 +61,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;JavaScript 调试.127.0.0.1:7890.executor&quot;: &quot;Debug&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "JavaScript 调试.127.0.0.1:7890.executor": "Debug",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "git-widget-placeholder": "main",
+    "javascript.preferred.runtime.type.id": "node",
+    "last_opened_file_path": "D:/Users/Git/Image-Hosting-Service",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Users\Git\Image-Hosting-Service\blog" />
       <recent name="C:\Users\ROG\WebstormProjects\Image-Hosting-Service\icons" />
     </key>
   </component>
@@ -85,7 +100,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-WS-252.25557.126" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-WS-253.31033.133" />
       </set>
     </attachedChunks>
   </component>
@@ -102,6 +117,9 @@
       <workItem from="1771267178166" duration="2921000" />
       <workItem from="1771787968384" duration="1164000" />
       <workItem from="1771792978469" duration="2534000" />
+      <workItem from="1772319238053" duration="1037000" />
+      <workItem from="1772342894162" duration="36000" />
+      <workItem from="1772812225204" duration="501000" />
     </task>
     <task id="LOCAL-00001" summary="扩充常见icon">
       <option name="closed" value="true" />
@@ -151,7 +169,15 @@
       <option name="project" value="LOCAL" />
       <updated>1771270046487</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="merge /halo to /blog&#10;rm /halo">
+      <option name="closed" value="true" />
+      <created>1772319355618</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1772319355618</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,6 +228,7 @@
     <MESSAGE value="add icons/accoding.buaa.edu.cn.png,&#10;icons/zfw.buaa.edu.cn.png,&#10;icons/u校园.png,&#10;icons/中国联通.png,&#10;icons/轩辕镜像.png,&#10;icons/雨云面板.png,&#10;icons/dynadot.png," />
     <MESSAGE value="add icons/阿里云.png&#10;update icons/雨课堂.png" />
     <MESSAGE value="add icons/Tkong.png" />
-    <option name="LAST_COMMIT_MESSAGE" value="add icons/Tkong.png" />
+    <MESSAGE value="merge /halo to /blog&#10;rm /halo" />
+    <option name="LAST_COMMIT_MESSAGE" value="merge /halo to /blog&#10;rm /halo" />
   </component>
 </project>
