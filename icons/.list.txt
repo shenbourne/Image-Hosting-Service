@@ -12,6 +12,7 @@ bilibili.png
 blender.png
 buaa.edu.cn.png
 clash-meta.png
+clash-verge.png
 clash.png
 claude.png
 cloudflare-zero-trust.png
